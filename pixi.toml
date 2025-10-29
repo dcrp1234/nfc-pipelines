@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Prottasha Dcruze <claradcruze@gmail.com>"]
+channels = ["conda-forge", "bioconda"]
+name = "nfc-pipelines"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
