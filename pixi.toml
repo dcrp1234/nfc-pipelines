@@ -8,3 +8,5 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
+nf-core = ">=3.4.1,<4"
+nextflow = ">=25.10.0,<26"
