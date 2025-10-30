@@ -10,3 +10,4 @@ version = "0.1.0"
 [dependencies]
 nf-core = ">=3.4.1,<4"
 nextflow = ">=25.10.0,<26"
+singularity = ">=3.8.6,<4"
